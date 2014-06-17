@@ -1,6 +1,6 @@
 {
   "name": "ken-dust",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "DustJS view renderer for KenJS",
   "author": "Meo <i@meo.guru> (http://meo.guru)",
   "keywords": [
