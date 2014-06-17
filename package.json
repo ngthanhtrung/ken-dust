@@ -24,7 +24,7 @@
   ],
   "readmeFilename": "README.md",
   "dependencies": {
-    "ken": "^0.1.0",
+    "ken": "^1.0.0",
     "dustjs-linkedin": "^2.3.5",
     "dustjs-helpers": "^1.2.0",
     "parent-require": "^1.0.0"
